@@ -1,6 +1,7 @@
 ## Custom jQuery Plugin for the Youtube API 
-#### Demo
+### Demo
 <a href="https://jsfiddle.net/msorce/o409hj6j/">demo on jsfiddle</a>
+---
 ``` javascript 
 $(function() {
   (function($) {
