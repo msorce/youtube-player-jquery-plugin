@@ -1,2 +1,2 @@
-# ytppi
-player plugin for jQuery
+# Cutom jQuery Plugin for the Youtube API 
+
