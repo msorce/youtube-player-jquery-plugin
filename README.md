@@ -1,2 +1,2 @@
-# Cutom jQuery Plugin for the Youtube API 
+## Custom jQuery Plugin for the Youtube API 
 
